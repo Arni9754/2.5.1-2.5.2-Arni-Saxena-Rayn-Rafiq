@@ -23,7 +23,7 @@ public class Player
   } //Modified Code
 
   public Player(String inputName) { //Step 10 Add Code
-    String inputName = name;  //Step 11 Add Code
+    inputName = name;  //Step 11 Add Code
     int points = 0; //Step 12 Add Code
     System.out.println("Welcome, "+inputName+"!"); //Step 11 Add Code
 
