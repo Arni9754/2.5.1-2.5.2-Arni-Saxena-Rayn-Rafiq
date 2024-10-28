@@ -3,6 +3,7 @@
  *
  * The runner for the PhraseSolverGame
  */
+// Names: Arni Saxena, Rayn Rafiq
 public class Runner
 {
   public static void main(String[] args) 
