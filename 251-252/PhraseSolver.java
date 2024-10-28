@@ -3,6 +3,7 @@
  *
  *  The PhraseSolver class the PhraseSolverGame
  */
+// Names: Arni Saxena, Rayn Rafiq
 import java.util.Scanner;
   
 public class PhraseSolver
